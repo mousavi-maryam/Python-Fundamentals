@@ -1,4 +1,5 @@
-"""Chapter 3 - Exercise 2
+"""
+Chapter 3 - Exercise 2
 
 Objective:
 Modify the pay calculation program to handle invalid user input using `try` and `except`. 

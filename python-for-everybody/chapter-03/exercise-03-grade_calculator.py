@@ -1,4 +1,5 @@
-"""Chapter 3 - Exercise 3
+"""
+Chapter 3 - Exercise 3
 
 Objective:
 Write a program that prompts the user for a score between 0.0 and 1.0. 
