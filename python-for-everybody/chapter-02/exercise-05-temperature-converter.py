@@ -1,7 +1,7 @@
-### Chapter 2 - Exercise 5
+# Chapter 2 - Exercise 5
 
-### objective
-### Practice applying mathematical formulas to user-provided data and producing calculated results.
+## objective
+## Practice applying mathematical formulas to user-provided data and producing calculated results.
 
 ### my solution
 

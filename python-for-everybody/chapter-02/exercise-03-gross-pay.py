@@ -1,7 +1,7 @@
-## Chapter 2 - Exercise 3
+# Chapter 2 - Exercise 3
 
-### Objective
-### Practice collecting multiple numeric inputs from the user using the `input()` function, converting string input to numeric values, performing a simple arithmetic calculation, and displaying the calculated gross pay.
+## Objective
+## Practice collecting multiple numeric inputs from the user using the `input()` function, converting string input to numeric values, performing a simple arithmetic calculation, and displaying the calculated gross pay.
 
 ### My Solution
 
