@@ -14,7 +14,7 @@ and accumulated the total and count. After processing the file, calculated and d
 If no matching lines were found, the program displayed an appropriate message.
 """
 
-fname=input("Please enter a file name: ")
+fname=input("Please enter a file name:\n ")
 try:
     fhand=open(fname)
 except FileNotFoundError:
