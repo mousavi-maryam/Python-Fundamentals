@@ -11,9 +11,6 @@ Implemented a `while` loop to iterate backwards through the string by decreasing
 printing one character per line until the beginning of the string was reached.
 """
 
-
-
-
 word=input("Please enter a word:  ")
 index=len(word)-1
 while index>=0:
