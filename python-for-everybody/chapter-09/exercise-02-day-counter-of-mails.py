@@ -2,7 +2,7 @@
 Chapter 9 - Exercise 2
 
 Objective:
-Read an MBOX file, find the "From" lines, extract the day of the week from each message, 
+Read a MBOX file, find the "From" lines, extract the day of the week from each message, 
 and count how many messages were sent on each day.
 
 My Solution:
@@ -17,7 +17,7 @@ fname=input('Please enter the file name: ')
 try:
     fhand=open(fname)
 except FileNotFoundError:
-    print('The file does not exist')
+    print(fname, 'does not exist')
     exit()
 
 day_count={}
